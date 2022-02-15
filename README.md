@@ -31,7 +31,7 @@ Skilled with the following stacks
 
 -BeautifulSoup⚡⚡
 
--Bootstrap⚡⚡
+
 
 -HTML⚡⚡⚡⚡⚡
 
@@ -45,3 +45,13 @@ Skilled with the following stacks
 
 -Cloudinary⚡⚡
 
+
+I love building API's. 
+
+I love working Django ORM. 
+
+I love working with databases.
+
+I love building API endpoints.
+
+I love working for a better, stable, resourceful, scalable, proficient output. I love learning and unlearning when it matters. I love being productive. I love being a django developer.😇
