@@ -14,5 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a self-taught backend developer.
-Welcome to my github profile
+I'm a self-taught backend software developer.
+
+
+Skilled with the following stacks
+
+*Python
+*Django
+*PostgreSQL
+*GraphQL
+*DRF
+*BeautifulSoup
+*Bootstrap
+*HTML
+*CSS
+*Git
+*Heroku
+*Cloudinary
+
