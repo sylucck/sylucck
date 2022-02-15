@@ -19,16 +19,29 @@ I'm a self-taught backend software developer.
 
 Skilled with the following stacks
 
-*Python
-*Django
-*PostgreSQL
-*GraphQL
-*DRF
-*BeautifulSoup
-*Bootstrap
-*HTML
-*CSS
-*Git
-*Heroku
-*Cloudinary
+-Python⚡⚡
+
+-Django⚡⚡⚡⚡⚡⚡
+
+-PostgreSQL⚡
+
+-GraphQL⚡⚡⚡
+
+-DRF⚡⚡
+
+-BeautifulSoup⚡⚡
+
+-Bootstrap⚡⚡
+
+-HTML⚡⚡⚡⚡⚡
+
+-CSS⚡⚡⚡
+
+-Bootstrap⚡⚡
+
+-Git⚡⚡
+
+-Heroku⚡⚡⚡
+
+-Cloudinary⚡⚡
 
