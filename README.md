@@ -19,17 +19,17 @@ I'm a self-taught backend software developer.
 
 Skilled with the following stacks
 
--Python⚡⚡
+-Python⚡⚡⚡⚡⚡
 
 -Django⚡⚡⚡⚡⚡⚡
 
--PostgreSQL⚡
+-PostgreSQL⚡⚡⚡⚡
 
--GraphQL⚡⚡⚡
+-GraphQL⚡⚡⚡⚡
 
--DRF⚡⚡
+-DRF⚡⚡⚡
 
--BeautifulSoup⚡⚡
+-BeautifulSoup⚡⚡⚡
 
 
 
@@ -39,16 +39,16 @@ Skilled with the following stacks
 
 -Bootstrap⚡⚡
 
--Git⚡⚡
+-Git⚡⚡⚡⚡
 
--Heroku⚡⚡⚡
+-Heroku⚡⚡⚡⚡
 
--Cloudinary⚡⚡
+-Cloudinary⚡⚡⚡
 
 
 I love building API's. 
 
-I love working Django ORM. 
+I love working with Django ORM. 
 
 I love working with databases.
 
